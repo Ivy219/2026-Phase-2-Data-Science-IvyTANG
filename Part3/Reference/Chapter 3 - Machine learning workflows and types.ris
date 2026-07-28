@@ -1,0 +1,26 @@
+TY  - CHAP
+T1  - Chapter 3 - Machine learning workflows and types
+AU  - Belyadi, Hoss
+AU  - Haghighat, Alireza
+BT  - Machine Learning Guide for Oil and Gas Using Python
+PB  - Gulf Professional Publishing
+SP  - 97
+EP  - 123
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821929-4
+DO  - https://doi.org/10.1016/B978-0-12-821929-4.00001-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128219294000019
+KW  - Bias–variance trade-off
+KW  - Cloud/edge computing
+KW  - Cross-validation
+KW  - Data centers
+KW  - Data gathering and integration
+KW  - Data normalization and standardization
+KW  - Feature ranking and selection
+KW  - Nonnegative matrix factorization
+KW  - Principal component analysis
+KW  - Scikit-learn
+KW  - Supervised/unsupervised/reinforcement learning
+AB  - This chapter walks the reader through a step-by-step guide for building a Machine Learning (ML) model. These steps include but are not limited to data gathering and integration, data cleaning (data visualization, outlier detection, and data imputation), feature ranking and selection, data normalization or standardization, cross-validation (including holdout method, k-fold cross-validation, stratified k-fold cross-validation, leave-P-out cross-validation), and blind set validation. Bias–variance trade-off is also discussed with the visualization illustration for building a successful general ML model. Afterward, various ML types such as supervised, unsupervised, and reinforcement learning are discussed. General information about various types of data centers as well as cloud versus edge computing are also included in this chapter. Next, various algorithms for dimensionality reductions such as principal component analysis (PCA) and nonnegative matrix factorization (NMF) along with step-by-step math and scikit-learn implementation in Python are illustrated. Dimensionality reduction was used for a completions data set to reduce the dimensionality of data from four to two (components) using both PCA and NMF. The clear illustration of the codes can be easily followed to apply the same techniques and algorithms to any other desired data sets.
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Machine learning enabled tools and methods for indoor localization using low power wireless network
+AU  - Ahmed Ouameur, Messaoud
+AU  - Caza-Szoka, Manouane
+AU  - Massicotte, Daniel
+JO  - Internet of Things
+VL  - 12
+SP  - 100300
+PY  - 2020
+DA  - 2020/12/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2020.100300
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660520301323
+KW  - Low power wide area (LPWA)
+KW  - LoRaWAN
+KW  - Indoor localization
+KW  - Deep learning (DL)
+KW  - Machine learning (ML)
+KW  - WiFi
+KW  - Receiver signal strength (RSS)
+AB  - In this paper, we propose a framework for the indoor localization in non-line-of-sight (NLoS) conditions using partial knowledge of the channel state information (CSI) obtained from low power wide area (LPWA) radios. The framework is based on NLoS CSI classification using machine learning (ML) and deep learning (DL) models that leverage measurements using end-to-end LoRaWAN network. The measurement set-up provides access to not only the sensor data but also to the physical layer metrics such as the receiver signal strength (RSS), spreading factor (SF), and the frequency hoping signature to name a few. Since LoRa is based on narrow band spread spectrum modulation techniques derived from chirp spread spectrum technology, the CSI are partial in nature. We demonstrate that the partial CSI with frequency hopping signature can be efficiently exploited to predict indoor location with accuracy of more than 98% using a multilayer neural network (MNN).
+ER  - 
