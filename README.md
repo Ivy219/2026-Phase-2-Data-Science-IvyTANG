@@ -5,7 +5,7 @@ This repository showcases my Phase 2 projects completed during the MSA 2026 prog
 
 ## Repository Structure
 
-### 📁 Part 1 – Furniture Sales Data Analysis
+### [Part 1 – Furniture Sales Data Analysis]
 Exploratory data analysis on a retail furniture sales dataset.
 
 **Key tasks**
@@ -25,7 +25,7 @@ Exploratory data analysis on a retail furniture sales dataset.
 
 ---
 
-### 📁 Part 2 – Weather Prediction
+### [Part 2 – Weather Prediction]
 Regression modelling for predicting maximum daily temperature.
 
 **Key tasks**
@@ -46,7 +46,7 @@ Regression modelling for predicting maximum daily temperature.
 
 ---
 
-### 📁 Part 3 – Retail Sales Analytics
+### [Part 3 – Retail Sales Analytics]
 Comprehensive retail sales analysis combining descriptive analytics, market basket analysis, and machine learning.
 
 **Key tasks**
